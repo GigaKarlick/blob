@@ -3,4 +3,5 @@
 488
 "add" 
 add 
-com test
+com testnew kine 
+new line 
